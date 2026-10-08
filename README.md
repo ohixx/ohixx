@@ -1,31 +1,19 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-dark.svg" width="100%" alt="ohixx">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg?v=3">
+  <img src="assets/header-dark.svg?v=3" width="100%" alt="ohixx">
 </picture>
 
-<a href="https://t.me/ohixxsexi"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-telegram-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/contact-telegram-light.svg">
-  <img src="assets/contact-telegram-dark.svg" width="56" hspace="6" alt="Telegram @ohixxsexi">
-</picture></a><a href="https://discord.com/users/758027179714936965"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-discord-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/contact-discord-light.svg">
-  <img src="assets/contact-discord-dark.svg" width="56" hspace="6" alt="Discord ohixxx">
-</picture></a><a href="https://funpay.com/en/users/6464301/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-funpay-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/contact-funpay-light.svg">
-  <img src="assets/contact-funpay-dark.svg" width="56" hspace="6" alt="FunPay">
-</picture></a>
+<a href="https://t.me/ohixxsexi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-telegram-dark.svg?v=3"><source media="(prefers-color-scheme: light)" srcset="assets/contact-telegram-light.svg?v=3"><img src="assets/contact-telegram-dark.svg?v=3" width="56" hspace="6" alt="Telegram"></picture></a><a href="https://discord.com/users/758027179714936965"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-discord-dark.svg?v=3"><source media="(prefers-color-scheme: light)" srcset="assets/contact-discord-light.svg?v=3"><img src="assets/contact-discord-dark.svg?v=3" width="56" hspace="6" alt="Discord"></picture></a><a href="https://funpay.com/en/users/6464301/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-funpay-dark.svg?v=3"><source media="(prefers-color-scheme: light)" srcset="assets/contact-funpay-light.svg?v=3"><img src="assets/contact-funpay-dark.svg?v=3" width="56" hspace="6" alt="FunPay"></picture></a>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-stack-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/section-stack-light.svg">
-  <img src="assets/section-stack-dark.svg" width="100%" alt="Stack">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-stack-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-stack-light.svg?v=3">
+  <img src="assets/section-stack-dark.svg?v=3" width="100%" alt="Stack">
 </picture>
 
 <img src="https://skillicons.dev/icons?i=c,cpp,html,js&theme=dark" alt="skills">
@@ -36,14 +24,14 @@
 
 <br>
 
-<img src="assets/gentoo.svg" width="48" height="48" hspace="5" alt="Gentoo"><img src="https://skillicons.dev/icons?i=arch&theme=dark" width="48" height="48" hspace="5" alt="Arch"><img src="https://skillicons.dev/icons?i=debian&theme=dark" width="48" height="48" hspace="5" alt="Debian"><img src="https://skillicons.dev/icons?i=nix&theme=dark" width="48" height="48" hspace="5" alt="NixOS">
+<img src="assets/gentoo.svg?v=3" width="48" height="48" hspace="5" alt="Gentoo"><img src="https://skillicons.dev/icons?i=arch&theme=dark" width="48" height="48" hspace="5" alt="Arch"><img src="https://skillicons.dev/icons?i=debian&theme=dark" width="48" height="48" hspace="5" alt="Debian"><img src="https://skillicons.dev/icons?i=nix&theme=dark" width="48" height="48" hspace="5" alt="NixOS">
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-activity-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/section-activity-light.svg">
-  <img src="assets/section-activity-dark.svg" width="100%" alt="Activity">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-activity-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-activity-light.svg?v=3">
+  <img src="assets/section-activity-dark.svg?v=3" width="100%" alt="Activity">
 </picture>
 
 <picture>
@@ -55,22 +43,9 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-now-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/section-now-light.svg">
-  <img src="assets/section-now-dark.svg" width="100%" alt="Now">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/758027179714936965?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=offline">
-  <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/758027179714936965?theme=light&bg=ffffff&borderRadius=12px&idleMessage=offline">
-  <img src="https://lanyard.cnrad.dev/api/758027179714936965?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=offline" alt="Discord status">
-</picture>
-
-<br><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-projects-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/section-projects-light.svg">
-  <img src="assets/section-projects-dark.svg" width="100%" alt="Projects">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-projects-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-projects-light.svg?v=3">
+  <img src="assets/section-projects-dark.svg?v=3" width="100%" alt="Projects">
 </picture>
 
 <a href="https://github.com/ohixx/wineffects"><picture>
@@ -87,9 +62,9 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/section-stats-light.svg">
-  <img src="assets/section-stats-dark.svg" width="100%" alt="Stats">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-stats-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-stats-light.svg?v=3">
+  <img src="assets/section-stats-dark.svg?v=3" width="100%" alt="Stats">
 </picture>
 
 <picture>
