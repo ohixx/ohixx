@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5af3c,100:0d1117&height=90&section=header" width="100%" alt="">
+
 <h1>ohixx</h1>
 
 <a href="https://t.me/ohixxsexi"><img src="https://img.shields.io/badge/Telegram-@ohixxsexi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
