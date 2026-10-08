@@ -42,22 +42,20 @@
 
 <br><br>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-now-dark.svg?v=3"><source media="(prefers-color-scheme: light)" srcset="assets/section-now-light.svg?v=3"><img src="assets/section-now-dark.svg?v=3" width="100%" alt="Now"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/758027179714936965?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=offline"><source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/758027179714936965?theme=light&bg=ffffff&borderRadius=12px&idleMessage=offline"><img src="https://lanyard.cnrad.dev/api/758027179714936965?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=offline" alt="Discord status"></picture>
+
+<br><br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/section-projects-dark.svg?v=3">
   <source media="(prefers-color-scheme: light)" srcset="assets/section-projects-light.svg?v=3">
   <img src="assets/section-projects-dark.svg?v=3" width="100%" alt="Projects">
 </picture>
 
-<a href="https://github.com/ohixx/wineffects"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ohixx&repo=wineffects&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f5902f&icon_color=ffc857&text_color=c9d1d9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ohixx&repo=wineffects&hide_border=true&bg_color=ffffff&title_color=d9701a&icon_color=f0a020&text_color=1f2328">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ohixx&repo=wineffects&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f5902f&icon_color=ffc857&text_color=c9d1d9" alt="wineffects">
-</picture></a>
-<a href="https://github.com/ohixx/powertools"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ohixx&repo=powertools&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f5902f&icon_color=ffc857&text_color=c9d1d9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ohixx&repo=powertools&hide_border=true&bg_color=ffffff&title_color=d9701a&icon_color=f0a020&text_color=1f2328">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ohixx&repo=powertools&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f5902f&icon_color=ffc857&text_color=c9d1d9" alt="powertools">
-</picture></a>
+<a href="https://github.com/ohixx/wineffects"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ohixx&repo=wineffects&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=f5902f&icon_color=ffc857&text_color=c9d1d9"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ohixx&repo=wineffects&hide_border=true&bg_color=ffffff&title_color=d9701a&icon_color=f0a020&text_color=1f2328"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ohixx&repo=wineffects&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=f5902f&icon_color=ffc857&text_color=c9d1d9" alt="wineffects"></picture></a>
+<a href="https://github.com/ohixx/powertools"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ohixx&repo=powertools&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=f5902f&icon_color=ffc857&text_color=c9d1d9"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ohixx&repo=powertools&hide_border=true&bg_color=ffffff&title_color=d9701a&icon_color=f0a020&text_color=1f2328"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ohixx&repo=powertools&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=f5902f&icon_color=ffc857&text_color=c9d1d9" alt="powertools"></picture></a>
 
 <br><br>
 
