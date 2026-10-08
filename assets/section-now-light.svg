@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="44" viewBox="0 0 900 44" role="img" aria-label="now">
+  <line x1="0" y1="22" x2="370" y2="22" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="530" y1="22" x2="900" y2="22" stroke="#d0d7de" stroke-width="1"/>
+  <text x="450" y="28" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="6" fill="#d9701a">NOW</text>
+</svg>

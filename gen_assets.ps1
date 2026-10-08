@@ -28,13 +28,12 @@ foreach ($k in $themes.Keys) {
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="$($t.a1)"/><stop offset="1" stop-color="$($t.a2)"/></linearGradient>
   </defs>
-  <text x="450" y="98" text-anchor="middle" font-family="$font" font-size="76" font-weight="700" letter-spacing="2" fill="url(#g)">ohixx</text>
-  <text x="450" y="136" text-anchor="middle" font-family="$font" font-size="17" letter-spacing="5" fill="$($t.muted)">SMALL  ·  FAST  ·  NATIVE</text>
+  <text x="450" y="110" text-anchor="middle" font-family="$font" font-size="76" font-weight="700" letter-spacing="2" fill="url(#g)">ohixx</text>
 </svg>
 "@
 
     # --- section headings --------------------------------------------------
-    foreach ($s in 'stack', 'activity', 'projects', 'stats') {
+    foreach ($s in 'stack', 'activity', 'now', 'projects', 'stats') {
         $label = $s.ToUpper()
         Save "section-$s-$k.svg" @"
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="44" viewBox="0 0 900 44" role="img" aria-label="$s">
@@ -49,6 +48,7 @@ foreach ($k in $themes.Keys) {
     $icon = $t.a2
     Save "contact-telegram-$k.svg" "<svg xmlns=`"http://www.w3.org/2000/svg`" width=`"56`" height=`"56`" viewBox=`"0 0 56 56`" role=`"img`" aria-label=`"Telegram`"><rect width=`"56`" height=`"56`" rx=`"13`" fill=`"$($t.tile)`"/><svg x=`"14`" y=`"14`" width=`"28`" height=`"28`" viewBox=`"0 0 24 24`"><path fill=`"$icon`" d=`"$tg`"/></svg></svg>"
     Save "contact-discord-$k.svg" "<svg xmlns=`"http://www.w3.org/2000/svg`" width=`"56`" height=`"56`" viewBox=`"0 0 56 56`" role=`"img`" aria-label=`"Discord`"><rect width=`"56`" height=`"56`" rx=`"13`" fill=`"$($t.tile)`"/><svg x=`"14`" y=`"14`" width=`"28`" height=`"28`" viewBox=`"0 0 24 24`"><path fill=`"$icon`" d=`"$dc`"/></svg></svg>"
-    Save "contact-funpay-$k.svg" "<svg xmlns=`"http://www.w3.org/2000/svg`" width=`"56`" height=`"56`" viewBox=`"0 0 56 56`" role=`"img`" aria-label=`"FunPay`"><rect width=`"56`" height=`"56`" rx=`"13`" fill=`"$($t.tile)`"/><text x=`"28`" y=`"37`" text-anchor=`"middle`" font-family=`"$font`" font-size=`"26`" font-weight=`"800`" fill=`"$icon`">F</text></svg>"
+    $fp = [IO.File]::ReadAllText((Join-Path $root 'funpay.b64')).Trim()
+    Save "contact-funpay-$k.svg" "<svg xmlns=`"http://www.w3.org/2000/svg`" xmlns:xlink=`"http://www.w3.org/1999/xlink`" width=`"56`" height=`"56`" viewBox=`"0 0 56 56`" role=`"img`" aria-label=`"FunPay`"><defs><clipPath id=`"c`"><rect x=`"14`" y=`"14`" width=`"28`" height=`"28`" rx=`"7`"/></clipPath></defs><rect width=`"56`" height=`"56`" rx=`"13`" fill=`"$($t.tile)`"/><image x=`"14`" y=`"14`" width=`"28`" height=`"28`" clip-path=`"url(#c)`" xlink:href=`"data:image/png;base64,$fp`"/></svg>"
 }
 "ok"

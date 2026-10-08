@@ -10,11 +10,11 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/contact-telegram-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/contact-telegram-light.svg">
   <img src="assets/contact-telegram-dark.svg" width="56" hspace="6" alt="Telegram @ohixxsexi">
-</picture></a><picture>
+</picture></a><a href="https://discord.com/users/758027179714936965"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/contact-discord-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/contact-discord-light.svg">
   <img src="assets/contact-discord-dark.svg" width="56" hspace="6" alt="Discord ohixxx">
-</picture><a href="https://funpay.com/en/users/6464301/"><picture>
+</picture></a><a href="https://funpay.com/en/users/6464301/"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/contact-funpay-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/contact-funpay-light.svg">
   <img src="assets/contact-funpay-dark.svg" width="56" hspace="6" alt="FunPay">
@@ -28,19 +28,11 @@
   <img src="assets/section-stack-dark.svg" width="100%" alt="Stack">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,html,js&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,html,js&theme=light">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,js&theme=dark" alt="C, C++, HTML, JavaScript">
-</picture>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,js&theme=dark" alt="skills">
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=windows&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=windows&theme=light">
-  <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows 11">
-</picture>
+<img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="skills">
 
 <br>
 
@@ -60,16 +52,21 @@
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/ohixx/ohixx/output/github-snake-dark.svg">
 </picture>
 
-<br>
+<br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ohixx&theme=react-dark&hide_border=true&bg_color=0d1117&color=f5902f&line=ffc857&point=ffffff&area=true&area_color=f5902f">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ohixx&hide_border=true&bg_color=ffffff&color=d9701a&line=f0a020&point=1f2328&area=true&area_color=f0a020">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohixx&theme=react-dark&hide_border=true&bg_color=0d1117&color=f5902f&line=ffc857&point=ffffff&area=true&area_color=f5902f" width="100%" alt="Commit activity">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-now-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-now-light.svg">
+  <img src="assets/section-now-dark.svg" width="100%" alt="Now">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/758027179714936965?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=offline">
+  <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/758027179714936965?theme=light&bg=ffffff&borderRadius=12px&idleMessage=offline">
+  <img src="https://lanyard.cnrad.dev/api/758027179714936965?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=offline" alt="Discord status">
 </picture>
 
 <br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/section-projects-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/section-projects-light.svg">
