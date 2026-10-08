@@ -27,4 +27,6 @@
 <a href="https://github.com/ohixx/wineffects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ohixx&repo=wineffects&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f5af3c&icon_color=5e81ff&text_color=c9d1d9" alt="wineffects"></a>
 <a href="https://github.com/ohixx/powertools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ohixx&repo=powertools&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f5af3c&icon_color=5e81ff&text_color=c9d1d9" alt="powertools"></a>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:f5af3c&height=90&section=footer" width="100%" alt="">
+
 </div>
